@@ -1,8 +1,11 @@
-===========================================================
+
+====================================================================
+Code examples related to a numbers of Java Books
+====================================================================
 **Giuseppe Urso - GITHUB**
 
 Url: https://github.com/giuseppeurso-eu/java-samples 
-===========================================================
+====================================================================
 
 This repository contains the source code of some java samples which refer to:
 
