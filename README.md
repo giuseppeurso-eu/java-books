@@ -1,11 +1,5 @@
 
-====================================================================
-Code examples related to a numbers of Java Books
-====================================================================
-**Giuseppe Urso - GITHUB**
-
-Url: https://github.com/giuseppeurso-eu/java-samples 
-====================================================================
+# Code examples related to a numbers of Java Books
 
 This repository contains the source code of some java samples which refer to:
 
@@ -16,3 +10,4 @@ terms of the GPLv3 license. The GPL (V2 or V3) is a copyleft license that
 requires anyone who distributes code or a derivative work to make the
 source available under the same terms. V3 is similar to V2, but further
 restricts use in hardware that forbids software alterations (see LICENSE.txt).
+---
