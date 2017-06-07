@@ -1,5 +1,5 @@
 
-# Code examples related to a numbers of Java Books
+# Code examples related to a Java books
 
 This repository contains the source code of some java samples which refer to:
 
